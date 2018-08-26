@@ -1,0 +1,5 @@
+.idea/
+..gitignore.un~
+/src/secret.js
+.gitignore~
+node_modules/
